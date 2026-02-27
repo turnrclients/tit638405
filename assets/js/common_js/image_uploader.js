@@ -1,3 +1,4 @@
+$(document).ready(function () {
 // ==============Custom alert========================
 function injectCustomAlertCSS() {
     if (document.getElementById('custom-alert-style')) return;
